@@ -1,3 +1,3 @@
-SOMEONE : Are you learning to ?
+`SOMEONE` : Are you learning to ?
 
-ME      : Get better at an existing hobby
+`ME`      : Get better at an existing hobby
